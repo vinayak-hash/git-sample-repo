@@ -1,0 +1,7 @@
+git config
+git init-->initialised the git repository
+git clone
+git add
+git commit-->commit changes to head
+git status--> prints the status of local repository
+git init -->create a local repository
