@@ -1,0 +1,9 @@
+git config --global user.name
+git init-->initialised the git repository
+git clone-->Create working copy of a local repository
+git add
+git commit-->commit changes to head
+git status--> prints the status of local repository
+git init -->create a local repository
+git log
+git diff<filename>
