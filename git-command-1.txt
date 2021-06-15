@@ -8,12 +8,8 @@ git init -->create a local repository
 git log
 git diff<filename>
 
-
-
-
-
-
-
+scenario1:
+scenario2:
 
 
 
